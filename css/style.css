@@ -1,0 +1,14 @@
+body {
+    background-color: gray;
+    color: darkslategrey;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+    background-color: beige;
+    padding: 20px;
+}
+
+h2 {
+    background-color: lightyellow;
+}
